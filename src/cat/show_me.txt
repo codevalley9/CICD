@@ -1,0 +1,13 @@
+Allocates size bytes of uninitialized storage.
+
+If allocation succeeds, returns a pointer that is suitably aligned for any object type with fundamental alignment.
+
+If size is zero, the behavior of malloc is implementation-defined. For example, a null pointer may be returned. Alternatively, a non-null pointer may be returned; but such a pointer should not be dereferenced, and should be passed to free to avoid memory leaks
+
+jnjnfghkjnkjhgdjndkjhnjnj
+		jnjnrkjfnjkn
+gnlkjgnlksjgnskjgnrtjgnsjrnjkfnfknhgfmh.lky
+§v«««©©¬¬»» 
+
+
+tyhdthtdyhdtjdtykduiluiolt.
